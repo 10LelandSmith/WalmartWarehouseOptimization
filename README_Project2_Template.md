@@ -1,8 +1,8 @@
 # CIS 3400 – Advanced Programming
-## Project 2: Python Application Development
+## Project 2: WalmartWarehouseOptimization
 
-**Student Name:** [Your Name]  
-**Project Title:** [Application Name]  
+**Student Name:** Leland Smith 
+**Project Title:** [WalmartWarehouseOptimization
 **Course:** CIS 3400 – Advanced Programming  
 **Final Presentation:** December 8, 2026
 
@@ -168,13 +168,13 @@ Add screenshots to a folder such as `docs/` and embed them here, for example:
 ## 11. Project Links
 
 **GitHub Repository:** [URL]  
-**Deployed Application:** [URL, if applicable]  
-**Demonstration Video:** [URL, if applicable]
+**Deployed Application:** [URL]  
+**Demonstration Video:** [URL]
 
 ## 12. Future Improvements
 
-1. [Improvement]
-2. [Improvement]
+1. 
+2. 
 
 ---
 
